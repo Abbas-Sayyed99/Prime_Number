@@ -6,7 +6,6 @@ class PrimeNumber
 	{
 		Scanner sc = new Scanner(System.in);
 		int i = 2;
-		int rem;
 
 		System.out.print("\n\t\t\tEnter number : ");
 			int n = sc.nextInt();
